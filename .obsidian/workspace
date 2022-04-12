@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "8a45d55e4815659c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e5b32a3f201c274",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Imported Kimchi 2.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "394d4c1b21661dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f28387fdb0e0a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1c8a796f5fd769",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36995e19229520ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "30628e26bfd8d0e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbbc02b1461c4b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2a2b73fb2bd321",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/Imported Kimchi 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9e5b32a3f201c274",
+  "lastOpenFiles": [
+    "Web/Imported Kimchi 2.md",
+    "Rev/Self-Hosted-Crypto.md",
+    "Rev/3T PHON3 HOM3.md",
+    "Rev/Shopkeeper 1.md",
+    "Images/Pasted image 20220410231332.png",
+    "Images/Pasted image 20220410231334.png",
+    "rev/Shopkeeper_2_RE_Easy.md",
+    "rev/Shopkeeper_1_RE_Easy.md",
+    "web/Imported_Kimchi_Web.md",
+    "Pasted image 20220408204734.png"
+  ]
+}
