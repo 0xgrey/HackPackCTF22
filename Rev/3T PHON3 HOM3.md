@@ -8,4 +8,4 @@
 ## Writeup
 Upon downloading `maybeaninvasionapp.apk`, I ran `strings maybeaninvasionapp.apk | grep -i flag` to read the flag.
 
-![["../Images/Pasted image 20220410235044.png"]]
+![]("../Images/Pasted image 20220410235044.png")
